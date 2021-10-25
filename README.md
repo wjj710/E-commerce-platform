@@ -60,7 +60,7 @@
 1）注册与登录<br />
 ![image](https://github.com/wjj710/E-commerce-platform/blob/master/IMG/login.png)<br />
 
-2) 商品信息<br />
+2）商品信息<br />
 ![image](https://github.com/wjj710/E-commerce-platform/blob/master/IMG/information.png)
 
 3）详情<br />
